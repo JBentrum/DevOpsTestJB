@@ -1,8 +1,8 @@
 # ASP.NET Core
 - task: DotNetCoreCLI@2
   inputs:
-    command: 'build'
-    projects: 'C:\Users\jason\source\repos\DevOpsTest\DevOpsTest'
+    command: 'restore'
+    projects: 'c:\users\jason\source\repos\DevOpsTest\DevOpsTest'
     feedsToUse: 'select'
     versioningScheme: 'off'
 # Build and test ASP.NET Core projects targeting .NET Core.
