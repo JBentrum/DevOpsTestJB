@@ -1,8 +1,6 @@
 # ASP.NET Core
 - task: DotNetCoreCLI@2
-  inputs:
-    command: 'restore'
-    projects: '- task: DotNetCoreCLI@2
+  
   inputs:
     command: 'build'
     projects: 'c:\users\jason\source\repos\DevOpsTest\DevOpsTest'
