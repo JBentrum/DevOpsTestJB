@@ -5,8 +5,6 @@
     command: 'build'
     projects: 'c:\users\jason\source\repos\DevOpsTest\DevOpsTest'
     feedsToUse: 'select'
-    versioningScheme: 'off''
-    feedsToUse: 'select'
     versioningScheme: 'off'
 # Build and test ASP.NET Core projects targeting .NET Core.
 # Add steps that run tests, create a NuGet package, deploy, and more:
